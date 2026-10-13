@@ -26,6 +26,10 @@ Project of 2 students: Moughamir and Bhagat. The work was shared between the two
 - **Rights management:** `GRANT` on tables, restricted access through a view, and update and delete operations executed from the partner account to check privileges.
 - **Power BI dashboard:** a one-page report with KPI cards, a map of the sites, bar charts and a pie chart, summarized in a two-page PDF.
 
+## Dashboard preview
+
+![Power BI dashboard of the Paris 2024 Olympic Games](powerbi-dashboard.png)
+
 ## Key figures from the analysis
 
 - 8,686 athletes and 6,609 events in the dataset.
@@ -37,6 +41,7 @@ Project of 2 students: Moughamir and Bhagat. The work was shared between the two
 ## Repository content
 
 ```
+powerbi-dashboard.png                       dashboard screenshot used in this README
 SAE_MS204_Partie1_Moughamir_Bhagat/
   JO_MCD_BHAGAT_MOUGHAMIR.mcd / .pdf        conceptual data model
   JO_Partie1_1_Moughamir_Bhagat.sql         people and countries, integrity, 7 queries
