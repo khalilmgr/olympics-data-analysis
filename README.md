@@ -1,6 +1,8 @@
 # Paris 2024 Olympic Games: SQL Database and Power BI Analysis
 
-Pair project (BUT Computer Science, Data track, IUT of Reims, 2025): design, build and query a relational database about the Paris 2024 Olympic Games, then analyze it with an interactive Power BI dashboard.
+End-of-year data project of my first year of the BUT Computer Science at the IUT of Reims (2024-2025), done in pairs: design, build and query a relational database about the Paris 2024 Olympic Games, then analyze it with an interactive Power BI dashboard.
+
+This project was my first complete data project, from data modeling to visual analysis.
 
 The work goes from conceptual modeling to a populated Oracle database, 17 documented queries, access rights management and a visual analysis of the Games.
 
